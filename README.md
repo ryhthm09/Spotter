@@ -33,7 +33,7 @@ To get started with Spotter, follow these steps:
 1.**Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/spotter.git
+https://github.com/ryhthm09/Spotter.git
 ```
 
 2.**Navigate to Project Directory:**
