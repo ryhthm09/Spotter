@@ -3,6 +3,9 @@
 
 Spotter is a Node.js web application that uses [Leaflet.js](https://leafletjs.com/) and [Socket.io](https://socket.io/) to display the real-time locations of all users currently accessing the application. Users can view the locations of others on a map that updates every 5 seconds.
 
+## Live Website
+
+Visit the live version of Spotter here: [Spotter Live Website](https://spotter-lo6y.onrender.com/)
 
 
 ## Features
