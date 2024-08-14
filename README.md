@@ -30,11 +30,11 @@ Visit the live version of Spotter here: [Spotter Live Website](https://spotter-l
 
 To get started with Spotter, follow these steps:
 
-1. **Clone the repository:**
+1.**Clone the repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/spotter.git
-   ```
+```bash
+git clone https://github.com/yourusername/spotter.git
+```
 
 2.**Navigate to Project Directory:**
  ```bash
